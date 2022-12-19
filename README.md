@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am Full Stack Web Developer and learning Html5 , Css3 , Bootstrap , Javascript , Jquery ,MySql , PhP ( For now ).
+Hi I am Full Stack Web Developer and learning Html5 , Css3 , Bootstrap-4,5 , Javascript , Jquery ,MySql , PhP ( For now ).
 
 
 ## 🌐 Socials:
