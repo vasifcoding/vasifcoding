@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my GitHub! I’m a Computer Science student at Ahi Evran University and a web developer specializing in Vue.js, React, Laravel, and modern web development practices.
+Computer Engineering student & Full-Stack Developer | Next.js & Express.js 
 
 
 ## 🌐 Socials:
